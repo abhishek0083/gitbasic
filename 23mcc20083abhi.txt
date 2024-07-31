@@ -1,2 +1,2 @@
 git stash means we are not working on staging area rather then with this we create a temporary area where we can work and after that we can merge that
-giut reset means we undo the prevoius commit.
+giut reset means we undo the prevoius commitdj.
